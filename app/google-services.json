@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "428115769351",
+    "firebase_url": "https://smartaquarium-65a8a-default-rtdb.firebaseio.com",
+    "project_id": "smartaquarium-65a8a",
+    "storage_bucket": "smartaquarium-65a8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428115769351:android:1d66e90248c99c26c9d2a2",
+        "android_client_info": {
+          "package_name": "com.project.aquariumapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhZMBrIgFCHw5pCuPObwGn5vJriT5g-4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
